@@ -1,0 +1,17 @@
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\bin\Debug\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\bin\Debug\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test.pdb
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\bin\Debug\Tyuiu.NovikovNS.Sprint1.Task3.V15.Lib.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\bin\Debug\Tyuiu.NovikovNS.Sprint1.Task3.V15.Lib.pdb
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\obj\Debug\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\obj\Debug\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\obj\Debug\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test.csproj.CopyComplete
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\obj\Debug\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test\obj\Debug\Tyuiu.NovikovNS.Sprint1.Task3.V15.Test.pdb
