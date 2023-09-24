@@ -1,0 +1,11 @@
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task4.V24\bin\Debug\Tyuiu.NovikovNS.Sprint1.Task4.V24.exe.config
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task4.V24\bin\Debug\Tyuiu.NovikovNS.Sprint1.Task4.V24.exe
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task4.V24\bin\Debug\Tyuiu.NovikovNS.Sprint1.Task4.V24.pdb
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task4.V24\bin\Debug\Tyuiu.NovikovNS.Sprint1.Task4.V24.Lib.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task4.V24\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task4.V24\bin\Debug\Tyuiu.NovikovNS.Sprint1.Task4.V24.Lib.pdb
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task4.V24\obj\Debug\Tyuiu.NovikovNS.Sprint1.Task4.V24.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task4.V24\obj\Debug\Tyuiu.NovikovNS.Sprint1.Task4.V24.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task4.V24\obj\Debug\Tyuiu.NovikovNS.Sprint1.Task4.V24.csproj.CopyComplete
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task4.V24\obj\Debug\Tyuiu.NovikovNS.Sprint1.Task4.V24.exe
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint1\Tyuiu.NovikovNS.Sprint1.Task4.V24\obj\Debug\Tyuiu.NovikovNS.Sprint1.Task4.V24.pdb
